@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Niewkurwiający budzik</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">+</string>
+    <string name="repeat">Powtórz \n %1$s</string>
+    <string name="every_day">Codziennie</string>
+    <string name="never">Nigdy</string>
+    <string name="add">Dodaj</string>
+    <string name="sound">Dźwięk \n %s</string>
+    
+    <string name="add_alarm">Dodaj alarm</string>
+    <string name="edit_alarm">Edytuj alarm</string>
+    <string name="description">Opis</string>
+
+</resources>
